@@ -1,37 +1,35 @@
-<!-- Banner Animado (Reemplazable por el GIF o imagen que prefieras) -->
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/5c13e5108422205.5fc698308d98d.gif" alt="Banner Animado Full Stack" width="100%" height="250" style="border-radius: 15px;" />
-</p>
+<!-- ================= HEADER ANIMADO (SVG, liviano) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=220&section=header&text=Nahuel%20Godoy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Título Animado con SVG -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Nahuel+Godoy+👋;Desarrollador+Full+Stack;Estudiante+en+la+UTN;Entusiasta+de+la+Arquitectura+de+Software" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- ================= TÍTULO CON TYPING SVG (endpoint activo) ================= -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Estudiante+en+la+UTN;Entusiasta+de+la+Arquitectura+de+Software" alt="Typing SVG" />
+</h3>
 
-<h3 align="center">Construyendo soluciones escalables, desde la base de datos hasta la interfaz.</h3>
+<p align="center">Construyendo soluciones escalables, desde la base de datos hasta la interfaz.</p>
 
 <br>
 
+<!-- ================= BADGES PRINCIPALES (profesional primero) ================= -->
 <p align="center">
-  <!-- Portfolio -->
   <a href="https://mi-portafolios-wheat.vercel.app/portfolio"><img src="https://img.shields.io/badge/Portafolio_Web-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nahuel-godoy-181118204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <!-- Instagram Personal -->
-  <a href="https://www.instagram.com/godoy_nahuell_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <!-- Glemn Software -->
+  <a href="https://github.com/NahuelGodoy21?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/glemnsoftware?utm_source=ig&utm_medium=social&utm_content=link_in_bio"><img src="https://img.shields.io/badge/Glemn_Software-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Glemn Software"/></a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/nagu.godoy.58"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
+
+<!-- ================= BADGES PERSONALES (secundario) ================= -->
+<p align="center">
+  <a href="https://www.instagram.com/godoy_nahuell_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/nagu.godoy.58"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NahuelGodoy21&color=00f0ff&style=flat-square&label=Visitas" alt="Visitor Count"/>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Profesional recibido en **Tecnico Universitario en Programación**.
+- 🎓 Estudiante de la **Tecnicatura Universitaria en Programación**.
 - 💻 Desarrollador **Full Stack** especializado en el ecosistema **MERN** y robustez backend con **Java**.
 - 🏗️ Fuerte enfoque en el diseño de arquitecturas limpias, **principios SOLID** y patrones de diseño (State, Composite, etc.).
 - 🗄️ Experiencia gestionando bases de datos relacionales y NoSQL, modelado y pipelines de agregación.
@@ -42,14 +40,35 @@
 ### 🛠️ Ecosistema Técnico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,java,postgres,mysql,html,css,git,github,postman&perline=7" alt="Tech Stack Animado" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,java,postgres,mysql,html,css,git,github,postman&perline=7" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🚀 Proyectos Destacados
+### 📊 Estadísticas de GitHub
 
-Aquí puedes ver algunas de las aplicaciones que he diseñado y desplegado:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahuelGodoy21&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+---
+
+### 🐍 Actividad de Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NahuelGodoy21/NahuelGodoy21/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</p>
+
+> ⚙️ **Nota técnica:** esta animación requiere un GitHub Action configurado en el repo `NahuelGodoy21/NahuelGodoy21` que genera y publica `github-contribution-grid-snake.svg` en la rama `output`. Si aún no está configurado, hay guías del workflow oficial (`Platane/snk`) buscando "github contribution snake action".
+
+---
+
+### 🚀 Proyectos Destacados
 
 | 🛒 Bazar Maravillas | 📈 App Finanzas |
 | :---: | :---: |
@@ -57,13 +76,20 @@ Aquí puedes ver algunas de las aplicaciones que he diseñado y desplegado:
 | Plataforma de comercio/bazar con interfaz dinámica. | Gestión de finanzas personales y seguimiento. |
 | [**🔗 Visitar Web**](https://bazar-maravillas.vercel.app) | [**🔗 Visitar Web**](https://app-finanzas-sepia.vercel.app) |
 
-> 💡 **Nota:** Explora todos mis repositorios (incluyendo sistemas de autenticación en Java, arquitecturas de software y más) en [**mi perfil de GitHub**](https://github.com/NahuelGodoy21?tab=repositories).
+> 🖼️ **Pendiente:** reemplazar las imágenes `dummyimage.com` por capturas reales de cada proyecto (subilas a una carpeta `assets/` del repo y apuntá el `src` ahí) para dar más credibilidad visual.
+>
+> 💡 **Nota:** explorá todos mis repositorios (incluyendo sistemas de autenticación en Java, arquitecturas de software y más) en [**mi perfil de GitHub**](https://github.com/NahuelGodoy21?tab=repositories).
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📬 Contacto
 
+¿Tenés un proyecto en mente o querés charlar sobre arquitectura de software? Escribime por cualquiera de estos medios:
 
-[![Racha de contribuciones](https://streak-stats.demolab.com/?user=NahuelGodoy21&theme=radical&hide_border=true&background=0D1117)](https://github.com/NahuelGodoy21)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahuel-godoy-181118204/"><img src="https://img.shields.io/badge/Hablemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mi-portafolios-wheat.vercel.app/portfolio"><img src="https://img.shields.io/badge/Ver_mi_Portafolio-252525?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-![Contador de visitas](https://komarev.com/ghpvc/?username=NahuelGodoy21&label=Vistas+del+Perfil&color=00F0FF&style=flat-square)
+<!-- ================= FOOTER ANIMADO (SVG, liviano) ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=120&section=footer" width="100%"/>
