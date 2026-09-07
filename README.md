@@ -53,12 +53,11 @@ Aquí puedes ver algunas de las aplicaciones que he diseñado y desplegado:
 
 | 🛒 Bazar Maravillas | 📈 App Finanzas |
 | :---: | :---: |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkYXo1Y2N6b245aXZ4OGd5eXo3OGN1N2p3cXo4bXZ5dDNyeTNveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="170" alt="Bazar Animado"> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9wMWJ4c3I3ZHN6MjM3YXp2ZnN2cGc5eXQ2MnIzMzZ6eXV3ZWQ0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPm3B95sM5TxyRq/giphy.gif" width="300" height="170" alt="Finanzas Animado"> |
+| <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="170" alt="Bazar Animado"> | <img src="https://media.giphy.com/media/3oKIPm3B95sM5TxyRq/giphy.gif" width="300" height="170" alt="Finanzas Animado"> |
 | Plataforma de comercio/bazar con interfaz dinámica. | Gestión de finanzas personales y seguimiento. |
 | [**🔗 Visitar Web**](https://bazar-maravillas.vercel.app) | [**🔗 Visitar Web**](https://app-finanzas-sepia.vercel.app) |
 
 > 💡 **Nota:** Explora todos mis repositorios (incluyendo sistemas de autenticación en Java, arquitecturas de software y más) en [**mi perfil de GitHub**](https://github.com/NahuelGodoy21?tab=repositories).
-
 ---
 
 ### 📊 Mis Estadísticas en GitHub
