@@ -57,10 +57,7 @@
 
 <br>
 
-<div align="center">
-  <!-- Contador de vistas con icono de ojo -->
-  <img src="https://komarev.com/ghpvc/?username=NahuelGodoy21&label=👁️+Vistas&color=0e75b6&style=for-the-badge" alt="Vistas del perfil" />
-</div>
+
 
 ---
 
