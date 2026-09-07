@@ -63,8 +63,6 @@ Aquí puedes ver algunas de las aplicaciones que he diseñado y desplegado:
 
 ### 📊 Mis Estadísticas en GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/NahuelGodoy21)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/NahuelGodoy21)
 
 [![Racha de contribuciones](https://streak-stats.demolab.com/?user=NahuelGodoy21&theme=radical&hide_border=true&background=0D1117)](https://github.com/NahuelGodoy21)
 
