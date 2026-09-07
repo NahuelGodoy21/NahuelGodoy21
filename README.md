@@ -53,30 +53,19 @@ Aquí puedes ver algunas de las aplicaciones que he diseñado y desplegado:
 
 | 🛒 Bazar Maravillas | 📈 App Finanzas |
 | :---: | :---: |
-| <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="170" alt="Bazar Animado"> | <img src="https://media.giphy.com/media/3oKIPm3B95sM5TxyRq/giphy.gif" width="300" height="170" alt="Finanzas Animado"> |
+| [![Bazar Maravillas](https://dummyimage.com/300x170/1c1f26/00f0ff.png&text=Bazar+Maravillas)](https://bazar-maravillas.vercel.app) | [![App Finanzas](https://dummyimage.com/300x170/1c1f26/00f0ff.png&text=App+Finanzas)](https://app-finanzas-sepia.vercel.app) |
 | Plataforma de comercio/bazar con interfaz dinámica. | Gestión de finanzas personales y seguimiento. |
 | [**🔗 Visitar Web**](https://bazar-maravillas.vercel.app) | [**🔗 Visitar Web**](https://app-finanzas-sepia.vercel.app) |
 
 > 💡 **Nota:** Explora todos mis repositorios (incluyendo sistemas de autenticación en Java, arquitecturas de software y más) en [**mi perfil de GitHub**](https://github.com/NahuelGodoy21?tab=repositories).
+
 ---
 
 ### 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <a href="https://github.com/NahuelGodoy21">
-    <img src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Estadísticas de GitHub"/>
-  </a>
-  <a href="https://github.com/NahuelGodoy21">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NahuelGodoy21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Lenguajes más usados"/>
-  </a>
-</p>
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/NahuelGodoy21)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/NahuelGodoy21)
 
-<p align="center">
-  <a href="https://github.com/NahuelGodoy21">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahuelGodoy21&theme=radical&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
-  </a>
-</p>
+[![Racha de contribuciones](https://streak-stats.demolab.com/?user=NahuelGodoy21&theme=radical&hide_border=true&background=0D1117)](https://github.com/NahuelGodoy21)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NahuelGodoy21&label=Vistas+del+Perfil&color=00F0FF&style=flat-square" alt="Contador de visitas" />
-</p>
+![Contador de visitas](https://komarev.com/ghpvc/?username=NahuelGodoy21&label=Vistas+del+Perfil&color=00F0FF&style=flat-square)
