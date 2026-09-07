@@ -31,7 +31,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de la **Tecnicatura Universitaria en Programación**.
+- 🎓 Profesional recibido en **Tecnico Universitario en Programación**.
 - 💻 Desarrollador **Full Stack** especializado en el ecosistema **MERN** y robustez backend con **Java**.
 - 🏗️ Fuerte enfoque en el diseño de arquitecturas limpias, **principios SOLID** y patrones de diseño (State, Composite, etc.).
 - 🗄️ Experiencia gestionando bases de datos relacionales y NoSQL, modelado y pipelines de agregación.
