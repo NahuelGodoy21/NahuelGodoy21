@@ -45,22 +45,6 @@
 
 ---
 
-## 📊 Estadísticas y Contribuciones
-
-<div align="center">
-  <!-- Estadísticas generales de GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  
-  <!-- Lenguajes más utilizados -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
-
-<br>
-
-
-
----
-
 ### 🚀 Proyectos Destacados
 
 | 📈 App Finanzas | 🛒 Bazar Maravillas |
