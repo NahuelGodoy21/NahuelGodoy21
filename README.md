@@ -45,24 +45,22 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📊 Estadísticas y Contribuciones
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
+  <!-- Estadísticas generales de GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  
+  <!-- Lenguajes más utilizados -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahuelGodoy21&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
+<br>
 
----
-
-### 📈 Actividad de Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahuelGodoy21&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</p>
+<div align="center">
+  <!-- Contador de vistas con icono de ojo -->
+  <img src="https://komarev.com/ghpvc/?username=NahuelGodoy21&label=👁️+Vistas&color=0e75b6&style=for-the-badge" alt="Vistas del perfil" />
+</div>
 
 ---
 
