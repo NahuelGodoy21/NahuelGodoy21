@@ -3,7 +3,7 @@
 
 <!-- ================= TÍTULO CON TYPING SVG (endpoint activo) ================= -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Estudiante+en+la+UTN;Entusiasta+de+la+Arquitectura+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;T%C3%A9cnico+Universitario+en+Programaci%C3%B3n;Entusiasta+de+la+Arquitectura+de+Software" alt="Typing SVG" />
 </h3>
 
 <p align="center">Construyendo soluciones escalables, desde la base de datos hasta la interfaz.</p>
@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de la **Tecnicatura Universitaria en Programación**.
+- 🎓 **Técnico Universitario en Programación** — recibido.
 - 💻 Desarrollador **Full Stack** especializado en el ecosistema **MERN** y robustez backend con **Java**.
 - 🏗️ Fuerte enfoque en el diseño de arquitecturas limpias, **principios SOLID** y patrones de diseño (State, Composite, etc.).
 - 🗄️ Experiencia gestionando bases de datos relacionales y NoSQL, modelado y pipelines de agregación.
@@ -48,7 +48,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -58,26 +58,22 @@
 
 ---
 
-### 🐍 Actividad de Contribuciones
+### 📈 Actividad de Contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NahuelGodoy21/NahuelGodoy21/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahuelGodoy21&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </p>
-
-> ⚙️ **Nota técnica:** esta animación requiere un GitHub Action configurado en el repo `NahuelGodoy21/NahuelGodoy21` que genera y publica `github-contribution-grid-snake.svg` en la rama `output`. Si aún no está configurado, hay guías del workflow oficial (`Platane/snk`) buscando "github contribution snake action".
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-| 🛒 Bazar Maravillas | 📈 App Finanzas |
+| 📈 App Finanzas | 🛒 Bazar Maravillas |
 | :---: | :---: |
-| [![Bazar Maravillas](https://dummyimage.com/300x170/1c1f26/00f0ff.png&text=Bazar+Maravillas)](https://bazar-maravillas.vercel.app) | [![App Finanzas](https://dummyimage.com/300x170/1c1f26/00f0ff.png&text=App+Finanzas)](https://app-finanzas-sepia.vercel.app) |
-| Plataforma de comercio/bazar con interfaz dinámica. | Gestión de finanzas personales y seguimiento. |
-| [**🔗 Visitar Web**](https://bazar-maravillas.vercel.app) | [**🔗 Visitar Web**](https://app-finanzas-sepia.vercel.app) |
+| [![App Finanzas](assets/finanzas.png)](https://app-finanzas-sepia.vercel.app) | [![Bazar Maravillas](assets/bazar.png)](https://bazar-maravillas.vercel.app) |
+| Gestión de finanzas personales y seguimiento. | Plataforma de comercio/bazar con interfaz dinámica. |
+| [**🔗 Visitar Web**](https://app-finanzas-sepia.vercel.app) | [**🔗 Visitar Web**](https://bazar-maravillas.vercel.app) |
 
-> 🖼️ **Pendiente:** reemplazar las imágenes `dummyimage.com` por capturas reales de cada proyecto (subilas a una carpeta `assets/` del repo y apuntá el `src` ahí) para dar más credibilidad visual.
->
 > 💡 **Nota:** explorá todos mis repositorios (incluyendo sistemas de autenticación en Java, arquitecturas de software y más) en [**mi perfil de GitHub**](https://github.com/NahuelGodoy21?tab=repositories).
 
 ---
