@@ -22,8 +22,10 @@
 <p align="center">
   <a href="https://www.instagram.com/godoy_nahuell_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/nagu.godoy.58"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NahuelGodoy21&color=00f0ff&style=flat-square&label=Visitas" alt="Visitor Count"/>
-</p>
+<div align="center">
+ <!-- Contador de vistas con el ojo -->
+  <img src="https://komarev.com/ghpvc/?username=NahuelGodoy21&label=👁️+Visitas&color=00e5ff&style=flat" alt="Vistas del perfil" />
+</div>
 
 ---
 
