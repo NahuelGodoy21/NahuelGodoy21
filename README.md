@@ -62,16 +62,20 @@ Aquí puedes ver algunas de las aplicaciones que he diseñado y desplegado:
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGodoy21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Lenguajes más usados"/>
-</div>
+<p align="center">
+  <a href="https://github.com/NahuelGodoy21">
+    <img src="https://github-readme-stats.vercel.app/api?username=NahuelGodoy21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Estadísticas de GitHub"/>
+  </a>
+  <a href="https://github.com/NahuelGodoy21">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NahuelGodoy21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="Lenguajes más usados"/>
+  </a>
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahuelGodoy21&theme=radical&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
-</div>
+<p align="center">
+  <a href="https://github.com/NahuelGodoy21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahuelGodoy21&theme=radical&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NahuelGodoy21&label=Vistas+del+Perfil&color=00F0FF&style=flat-square" alt="Contador de visitas" />
